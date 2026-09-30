@@ -1,12 +1,12 @@
 🗣️ <i>"Allow me to re-introduce myself, my name is..."</i>
 
-<h1><b>Jay Nargundkar</b></h1>
+<img src="https://github.com/jaynarg/jaynarg/blob/main/images/profile-banner-v1.png?raw=true">
 
 I’m a former strategy and operations consultant with experience in Fortune 500 corporate strategy. I received my MBA from Kellogg and undergrad degree in finance from the University of Maryland. And I’ve held management positions at multiple high-growth tech startups, including as head of business operations at EV charging network Volta from 2019-2022. Currently, I "wear many hats" across strategy, M&A, and business development for Terviva, working to develop an Asia-native tree called pongamia as a sustainable source for biofuels and protein across four continents.
 
 Professional details aside, I’m a proud San Francisco resident. IRL, you might find me performing amateur stand-up comedy, backcountry camping in national parks, or trying my hand at my latest niche creative writing or video project.
 
-This page houses my public coding repositories. Note, however, that *most* of my repositories are private. If there's something you're interested in, please get in touch!
+This page houses my coding repositories. Note, however, that only public repositories are visible. *Most* of my repositories are private. If there's something you're interested in, please get in touch!
 
 <h3>Find me elsewhere on the web:</h3>
 
